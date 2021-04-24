@@ -1,0 +1,11 @@
+- **Uso Basico de Anoringa**
+    - [Primeros Pasos](/)
+- **Anoringa Pro**
+    - **Posts**
+    - [Opciones basicas de un post](post_basic)
+    - [Postea como un campeon](post_pro)
+    - **Comentarios**
+    - [Opciones basicas de un comentario](https://www.youtube.com/watch?v=dzeQ2irb04k&ab_channel=PVM)
+    - [Comenta como un pro](https://www.youtube.com/watch?v=R6F7-5CUuBM&ab_channel=LosManosOverPower)
+- **Recomendaciones**
+    - [Que hacer si me siento mal](https://www.youtube.com/watch?v=Sa81xwD1SCg&list=PLdzr-RFs1m0MBfFUf6FrdVIcdMz9MG8OU&ab_channel=Titopin1590)
