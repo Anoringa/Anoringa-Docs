@@ -12,8 +12,8 @@ dale click en Loguearse ,luego completa el captcha y listo
 ## Como postear
 
 requisitos:
-  estar logueado
-  estar vivo (opcional)
+- estar logueado
+- estar vivo (opcional)
   
 dale click en "Crear Post", dentro de la ventana que se abre se puede confeccionar el post, desde un titulo y un cuerpo con estilo hasta una foto y musica de fondo para que escuche la persona que lo vaya a leer
 
@@ -21,8 +21,8 @@ dale click en "Crear Post", dentro de la ventana que se abre se puede confeccion
 ## Como comentar (CUMentar)
 
 requisitos:
-  estar logueado
-  no ser un bot (opcional)
+- estar logueado
+- no ser un bot (opcional)
   
 dentro de un post se puede comentar
 
