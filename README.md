@@ -31,8 +31,7 @@ dentro de un post se puede comentar
 
 ## Como cambiar la configuracion
 
-If you don't like `npm` or have trouble installing the tool, you can manually create `index.html`:
-
+cuando estas logueado tenes la posibilidad de acceder a la configuracion, dentro de esta podes cambiar tu nickname 
 
 
 *siempre siguiendo las normas y leyes de tu pais
