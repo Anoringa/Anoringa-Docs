@@ -1,21 +1,38 @@
 # Como usar Anoringa
 
-> proximamente
+
+no es muy dificil, solo tenes que comentar y postear lo que quieras*
 
 
-It is recommended to install `docsify-cli` globally, which helps initializing and previewing the website locally.
-
-```bash
-npm i docsify-cli -g
-```
 
 ## Como crear un usuario
 
+dale click en Loguearse ,luego completa el captcha y listo
+
 ## Como postear
 
+requisitos:
+  estar logueado
+  estar vivo (opcional)
+  
+dale click en "Crear Post", dentro de la ventana que se abre se puede confeccionar el post, desde un titulo y un cuerpo con estilo hasta una foto y musica de fondo para que escuche la persona que lo vaya a leer
+
+
 ## Como comentar (CUMentar)
+
+requisitos:
+  estar logueado
+  no ser un bot (opcional)
+  
+dentro de un post se puede comentar
+
+
+
 
 ## Como cambiar la configuracion
 
 If you don't like `npm` or have trouble installing the tool, you can manually create `index.html`:
 
+
+
+*siempre siguiendo las normas y leyes de tu pais
